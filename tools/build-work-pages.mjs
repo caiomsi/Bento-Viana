@@ -86,8 +86,8 @@ function figure(p, i, sizes, loading = 'lazy') {
 }
 
 function gallery(p) {
-  // The hero already shows the opening image full-screen; don't repeat it first in the gallery.
-  const items = p.images[0] && p.images[0].filename === p.hero ? p.images.slice(1) : p.images;
+  // The hero already shows this image full-screen; don't repeat it in the gallery.
+  const items = p.images.filter((i) => i.filename !== p.hero);
   const rows = [];
   for (let k = 0; k < items.length; ) {
     if (items[k].orientation === 'landscape') {
@@ -120,7 +120,7 @@ function projectPage(p, idx) {
   const url = `${SITE}work/${p.slug}/`;
   const title = `${p.title} — ${SUFFIX}`;
   const hero = p.images.find((i) => i.filename === p.hero);
-  const lines = [...sentences(p.intro), `${p.images.length} photographs`];
+  const lines = sentences(p.intro);
   const jsonld = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -164,7 +164,7 @@ ${header.replaceAll('{{ROOT}}', R)}
   <section class="section section--paper work-intro" aria-label="About this project">
     <div class="manifesto">
       <h2 class="manifesto__title">${esc(p.title)}</h2>
-      <p class="manifesto__lines">${lines.map((l, k) => `<span class="line${k === lines.length - 1 ? ' label' : ''}" style="--i:${k}">${esc(l)}</span>`).join('\n        ')}</p>
+      <p class="manifesto__lines">${lines.map((l, k) => `<span class="line" style="--i:${k}">${esc(l)}</span>`).join('\n        ')}</p>
     </div>
   </section>
 

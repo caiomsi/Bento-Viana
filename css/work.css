@@ -19,7 +19,6 @@
 /* ---------- Intro room ---------- */
 .work-intro { padding-top: 0; padding-bottom: 0; }
 .work-intro .manifesto { padding-top: clamp(56px, 8vw, 120px); padding-bottom: clamp(56px, 8vw, 120px); }
-.work-intro .manifesto__lines .line.label { margin-top: 1.2rem; color: var(--graphite); }
 
 /* ---------- Gallery ---------- */
 .work-gallery { background: var(--ink); display: flex; flex-direction: column; gap: 10px; padding: 10px 0; }

@@ -148,7 +148,7 @@ h3 { font-size: clamp(1.8rem, 3vw, 2.6rem); }
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 7px;
   background: none; border: 0; color: inherit; cursor: pointer;
 }
-.nav-toggle__bar { display: block; width: 26px; height: 1px; background: currentColor; transition: transform .35s var(--ease); }
+.nav-toggle__bar { display: block; width: 26px; height: 2px; background: currentColor; transition: transform .35s var(--ease); }
 .nav-open .nav-toggle__bar:first-of-type { transform: translateY(4px) rotate(45deg); }
 .nav-open .nav-toggle__bar:last-of-type { transform: translateY(-4px) rotate(-45deg); }
 
@@ -264,13 +264,6 @@ h3 { font-size: clamp(1.8rem, 3vw, 2.6rem); }
 .hero__mark { --wm-size: clamp(3.4rem, 13vw, 11rem); display: flex; flex-direction: column; align-items: flex-end; width: fit-content; }
 .hero__mark .wordmark__sub { color: #fff; }
 .hero__tag { max-width: 40ch; }
-.hero__scroll {
-  position: absolute; z-index: 1; right: var(--gutter); bottom: 20px;
-  display: flex; flex-direction: column; align-items: center; gap: 8px;
-  min-height: 44px; color: #fff; text-decoration: none;
-}
-.hero__scroll::after { content: ""; width: 1px; height: 36px; background: currentColor; transform-origin: top; animation: cue 2.4s var(--ease) infinite; }
-@keyframes cue { 0% { transform: scaleY(0); } 60% { transform: scaleY(1); } 100% { transform: scaleY(1); opacity: 0; } }
 .hero--page { min-height: min(86svh, 760px); }
 .hero--page h1 { font-size: clamp(3.5rem, 11vw, 10rem); }
 
@@ -411,5 +404,4 @@ h3 { font-size: clamp(1.8rem, 3vw, 2.6rem); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; animation: none !important; }
   .manifesto .line, .manifesto__title, .fade-img { opacity: 1 !important; transform: none !important; }
-  .hero__scroll::after { transform: none; }
 }
