@@ -1,0 +1,551 @@
+[
+  {
+    "slug": "brasilia",
+    "title": "Brasília",
+    "category": "Architecture / Aerial",
+    "filters": [
+      "architecture",
+      "aerial"
+    ],
+    "placeholder": true,
+    "intro": "Concrete, sky and water in Brasília, from the curved ribs of the Cathedral of Brasília to the arches of Itamaraty Palace. Sweeping aerials sit beside black-and-white studies of towers, stairs and facades.",
+    "cover": "cathedral-aerial-top-down",
+    "hero": "itamaraty-palace-arches-reflection",
+    "images": [
+      {
+        "filename": "itamaraty-palace-arches-reflection",
+        "alt": "Itamaraty Palace arches and sculpture reflected in the water garden at golden hour, Brasília",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "cathedral-stained-glass-ribs",
+        "alt": "Curved white concrete ribs and blue glass of the Cathedral of Brasília, seen from below",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "cathedral-crown-black-and-white",
+        "alt": "Black-and-white view of the Cathedral of Brasília crown against a bright clouded sky",
+        "orientation": "portrait",
+        "width": 711,
+        "height": 1000
+      },
+      {
+        "filename": "cathedral-stained-glass-detail",
+        "alt": "Blue stained-glass panels between concrete columns inside the Cathedral of Brasília",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "cathedral-nave-black-and-white",
+        "alt": "Black-and-white interior of the Cathedral of Brasília with radiating columns and suspended angels",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "cathedral-aerial-top-down",
+        "alt": "Top-down aerial of the Cathedral of Brasília, its blue glass crown and white ribs at dusk",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "aerial-roadway-loops-ipe-trees",
+        "alt": "Aerial of looping roads framing yellow and white ipê trees in Brasília",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "tower-black-and-white-abstract",
+        "alt": "Black-and-white abstract of a modernist concrete tower with circular platforms",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "tower-blue-sky",
+        "alt": "White modernist tower with circular platforms against deep blue sky",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "tower-framed-curve",
+        "alt": "Modernist concrete tower framed through a curved white opening",
+        "orientation": "portrait",
+        "width": 705,
+        "height": 1000
+      },
+      {
+        "filename": "spiral-staircase-black-and-white",
+        "alt": "Black-and-white floating spiral staircase in a modernist interior",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "concrete-curves-black-and-white-1",
+        "alt": "Black-and-white abstract of sweeping concrete curves",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "concrete-curves-black-and-white-2",
+        "alt": "Black-and-white abstract of layered concrete domes and light",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "concrete-facade-fins-shadow",
+        "alt": "Vertical concrete facade fins casting deep shadows beside pine trees",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "gold-and-glass-facade",
+        "alt": "Golden textured wall meeting a dark glass facade with concrete ribs",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "aerial-circular-pavilions",
+        "alt": "Aerial of circular modernist pavilions and lawns",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "aerial-garden-plaza",
+        "alt": "Aerial of a landscaped garden plaza between city blocks",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      }
+    ]
+  },
+  {
+    "slug": "desert-office",
+    "title": "Desert Office Campus",
+    "category": "Commercial",
+    "filters": [
+      "architecture",
+      "interiors"
+    ],
+    "placeholder": true,
+    "intro": "A glass and stone office building set beneath red desert cliffs, photographed at dusk and in full sun. Terraces, a steel pergola and a wood-slat ceiling frame the landscape from inside.",
+    "cover": "office-red-cliffs-dusk",
+    "hero": "office-red-cliffs-dusk",
+    "images": [
+      {
+        "filename": "office-red-cliffs-dusk",
+        "alt": "Office building with glowing glass floor beneath red cliffs at dusk",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "office-entry-walkway",
+        "alt": "Sunlit walkway to the stone and glass entry of a desert office building",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "terrace-framed-cliffs",
+        "alt": "Terrace framing red desert cliffs through tall glass panels",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "pergola-cliff-view",
+        "alt": "Steel pergola framing desert cliffs, reflected in the building's glass",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "glass-gallery-interior",
+        "alt": "Glass-walled gallery overlooking a two-story lobby with a stone fireplace wall",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "wood-ceiling-light-fixtures",
+        "alt": "Wood-slat ceiling with starburst light fixtures, looking up",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      }
+    ]
+  },
+  {
+    "slug": "mountain-residence",
+    "title": "Mountain Residence",
+    "category": "Residential / Interiors",
+    "filters": [
+      "architecture",
+      "interiors",
+      "aerial"
+    ],
+    "placeholder": true,
+    "intro": "A stone and glass residence glowing at night in deep snow. Inside, a vaulted timber great room, a stone bathtub and bright living spaces open onto the trees.",
+    "cover": "residence-night-snow-aerial",
+    "hero": "residence-night-snow-aerial",
+    "images": [
+      {
+        "filename": "residence-night-snow-aerial",
+        "alt": "Aerial of a stone and glass mountain residence glowing at night in deep snow",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "residence-terraces-night",
+        "alt": "Lit terraces, fire features and dining room of a mountain residence at night",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "great-room-timber-vaulted",
+        "alt": "Vaulted timber great room with tall windows onto pines",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "stone-bathtub-mountain-view",
+        "alt": "Stone bathtub before floor-to-ceiling glass and a snowy mountain view",
+        "orientation": "portrait",
+        "width": 709,
+        "height": 1000
+      },
+      {
+        "filename": "living-room-from-above",
+        "alt": "Living room seen from above with sunlight across a patterned rug",
+        "orientation": "portrait",
+        "width": 707,
+        "height": 1000
+      },
+      {
+        "filename": "dining-table-antler-chandelier",
+        "alt": "Top-down view of a dining table under an antler chandelier",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "bright-living-room",
+        "alt": "Bright modern living room with large picture windows onto trees",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "red-wall-tree-art",
+        "alt": "Red wall with white tree artwork beside a window",
+        "orientation": "portrait",
+        "width": 706,
+        "height": 1000
+      }
+    ]
+  },
+  {
+    "slug": "civic-library",
+    "title": "Civic Library",
+    "category": "Civic",
+    "filters": [
+      "architecture",
+      "aerial"
+    ],
+    "placeholder": true,
+    "intro": "A library wrapped in perforated metal, glowing at its glass base at dusk. Close views of the facade panels and a plaza table beside a blooming redbud tree.",
+    "cover": "library-perforated-facade-dusk",
+    "hero": "library-perforated-facade-dusk",
+    "images": [
+      {
+        "filename": "library-perforated-facade-dusk",
+        "alt": "Library with perforated metal facade and glowing glass base at dusk",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "perforated-facade-sunburst",
+        "alt": "Perforated metal facade panels with sunburst and a young tree",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "plaza-table-redbud-top-down",
+        "alt": "Top-down view of a plaza table beside a blooming redbud tree",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      }
+    ]
+  },
+  {
+    "slug": "valley-facility",
+    "title": "Valley Facility",
+    "category": "Civic / Commercial",
+    "filters": [
+      "architecture",
+      "interiors",
+      "aerial"
+    ],
+    "placeholder": true,
+    "intro": "A facility in an open valley at the foot of a mountain range, seen from above at sunset. Inside, a wood-slat flag installation and a symmetrical glass conference room.",
+    "cover": "facility-aerial-mountains",
+    "hero": "facility-aerial-mountains",
+    "images": [
+      {
+        "filename": "facility-aerial-sunset-clouds",
+        "alt": "Aerial of a civic facility in an open valley under dramatic sunset clouds",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "facility-aerial-mountains",
+        "alt": "Aerial of a facility at the foot of a mountain range at sunset",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "wood-slat-flag-installation",
+        "alt": "Wood-slat American flag installation in a two-story atrium",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "glass-conference-room",
+        "alt": "Symmetrical view into a glass conference room with a red sofa",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      }
+    ]
+  },
+  {
+    "slug": "new-york",
+    "title": "New York",
+    "category": "Cities",
+    "filters": [
+      "cities",
+      "architecture"
+    ],
+    "placeholder": true,
+    "intro": "Manhattan from the air at blue hour and from the street: bridges, glass towers, the Oculus and Hudson Yards. Brick tenements and a sculpted facade add texture to the skyline.",
+    "cover": "manhattan-aerial-blue-hour",
+    "hero": "manhattan-aerial-blue-hour",
+    "images": [
+      {
+        "filename": "manhattan-skyline-from-bridge",
+        "alt": "Midtown Manhattan skyline seen past the Brooklyn Bridge railings",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "sculpted-residential-facade-high-line",
+        "alt": "Sculpted metal and glass residential facade seen through trees along the High Line",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "oculus-ribs-reflected-towers",
+        "alt": "White steel ribs of the Oculus beside a glass tower reflecting historic skyscrapers",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "hudson-yards-glass-towers",
+        "alt": "Layered glass towers of Hudson Yards with the Vessel's copper stairs",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "tenement-facade-fire-escapes",
+        "alt": "Ornate white-brick tenement facade with green fire escapes",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "manhattan-aerial-blue-hour",
+        "alt": "Aerial of Manhattan at blue hour with lit towers stretching to the harbor",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "rail-yards-and-convention-center",
+        "alt": "Rail yards in front of glass towers and a convention center on Manhattan's west side",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "bridge-framed-by-brick-buildings",
+        "alt": "Suspension bridge tower framed between brick buildings at dusk",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      }
+    ]
+  },
+  {
+    "slug": "urban-residential",
+    "title": "City Fabric",
+    "category": "Residential / Urban",
+    "filters": [
+      "cities",
+      "architecture"
+    ],
+    "placeholder": true,
+    "intro": "Dark vertical-board townhouses above a red brick wall, with tree shadows across the surface. A garden courtyard and a tree-lined mall leading to a golden lift bridge complete the set.",
+    "cover": "dark-facade-brick-wall-shadows",
+    "hero": "dark-facade-brick-wall-shadows",
+    "images": [
+      {
+        "filename": "dark-facade-brick-wall-shadows",
+        "alt": "Dark vertical-board townhouses above a red brick wall with tree shadows",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "courtyard-through-sculpture",
+        "alt": "Garden courtyard seen through the openings of a dark sculpture",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "capitol-mall-aerial-tower-bridge",
+        "alt": "Aerial down a tree-lined capital mall toward a golden lift bridge",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      }
+    ]
+  },
+  {
+    "slug": "aerial",
+    "title": "Aerial Perspectives",
+    "category": "Aerial",
+    "filters": [
+      "aerial",
+      "cities"
+    ],
+    "placeholder": true,
+    "intro": "A domed state capitol lit at dusk, a temple spire at blue hour, a ballpark from directly above and a switchback road through dark forest. Structure seen in its setting.",
+    "cover": "state-capitol-dusk-aerial",
+    "hero": "state-capitol-dusk-aerial",
+    "images": [
+      {
+        "filename": "state-capitol-dusk-aerial",
+        "alt": "Aerial of a domed state capitol lit at dusk against the mountains",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "temple-night-aerial",
+        "alt": "Aerial of a lit temple spire over a city at blue hour",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "ballpark-infield-top-down",
+        "alt": "Top-down aerial of a ballpark infield and stands",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "switchback-road-forest-aerial",
+        "alt": "Aerial of a switchback road through dark forest",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      }
+    ]
+  },
+  {
+    "slug": "american-west",
+    "title": "The American West",
+    "category": "Landscape",
+    "filters": [
+      "landscape"
+    ],
+    "placeholder": true,
+    "intro": "Red sandstone canyons, a concrete chapel set into red rock, snow-dusted cliffs and autumn aspens. A snowy ridge fades into fog beneath a crescent moon.",
+    "cover": "mountain-autumn-aspens-aerial",
+    "hero": "mountain-autumn-aspens-aerial",
+    "images": [
+      {
+        "filename": "slot-canyon-sky-opening",
+        "alt": "Red sandstone slot canyon walls opening to blue sky",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "chapel-in-red-rocks",
+        "alt": "Concrete chapel with a cross set into red rock buttes under a deep blue sky",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "red-rock-cliffs-bridge-dusk",
+        "alt": "Red rock cliffs dusted with snow above a steel arch bridge at dusk",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 461
+      },
+      {
+        "filename": "mountain-autumn-aspens-aerial",
+        "alt": "Aerial of a mountain range above golden autumn aspens and a winding road at sunrise",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 462
+      },
+      {
+        "filename": "snowy-ridge-fog",
+        "alt": "Snow-covered forested ridge fading into fog",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      },
+      {
+        "filename": "moon-over-pine-ridge",
+        "alt": "Crescent moon over a silhouetted pine ridge at blue hour",
+        "orientation": "landscape",
+        "width": 1000,
+        "height": 463
+      }
+    ]
+  }
+]
